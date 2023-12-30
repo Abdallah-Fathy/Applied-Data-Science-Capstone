@@ -6,7 +6,7 @@ The program consists of 9 online courses that will provide you with the latest j
 
 This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you practical skills with applicability to real jobs, including:
 
-Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
+Tools: Jupyter / JupyterLab, GitHub
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
